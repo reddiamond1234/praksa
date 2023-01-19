@@ -1,0 +1,15 @@
+
+	prej:
+	
+	unsigned int dwMyCarSpeed; // my car maximum speed is 200 km/h
+	unsigned long long qwMyCarRPM; // my car maximum RPM is 6000
+	-------------------------------------------------------------------
+	potem:
+
+	unsigned short int dwMyCarSpeed; // my car maximum speed is 200 km/h
+	unsigned short int qwMyCarRPM; // my car maximum RPM is 6000
+	-------------------------------------------------------------------
+
+	ans: unsigned short int v pomnilniku zasede 2 bajta, min vrednost je 0, max vrednost pa 	     65.535	
+	
+	

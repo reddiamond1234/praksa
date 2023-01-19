@@ -1,0 +1,3 @@
+D:/Namizje/faks/projects/praksa/cmake-build-debug/CMakeFiles/praksa.dir
+D:/Namizje/faks/projects/praksa/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Namizje/faks/projects/praksa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

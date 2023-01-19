@@ -1,0 +1,9 @@
+a. What is the value of myChar variable after execution of above code?
+
+ans: 255
+
+b. Can you explain why it has such value?
+
+and:    pride do preliva (overflow). ker ima spremenljivka samo 256 vrednosti (0-255 ker je unsigned) pomeni, da ne moremo
+	imeti vrednosti -1. vrednost gre zato na 255. enako se bi zgodilo če bi 255 povečali, bi dobili
+	vrednost 0.

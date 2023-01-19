@@ -1,0 +1,5 @@
+
+Does a pointer variable that points to a pointer variable that points to a data variable
+(double pointer) makes sense to use? If yes, name one use case.
+	
+ans: primer je 2d tabela

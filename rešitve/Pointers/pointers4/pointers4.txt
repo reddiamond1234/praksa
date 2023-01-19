@@ -1,0 +1,8 @@
+
+-Can the same be said for pointer variables (e.g. size of pointer to int vs pointer to char)?
+
+ans: velikost kazalca je fiksna in se ne spreminja glede na podatkovni tip.
+
+- How about pointer variable sizes in 32-bit or 64-bit systems, are those the same?
+
+ans: za 32-bitne sisteme je dolžina kazalca 4 bajte, za 64-bitne sisteme pa 8 bajte.

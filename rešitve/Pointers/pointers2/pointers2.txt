@@ -1,0 +1,10 @@
+(Bonus) Do you notice anything about the value of myInt, throughout your program? If so, can you
+explain why it happens?
+
+ans: 	če spremenljivko pošljemo v funkcijo kot integer, pomeni da jo pošljemo po vrednosti. Spremenljivka a se 
+	shrani na novo vrednost v pomnilniku, do katere dostopamo v funkciji in nima zveze z lokacijo 
+	spremenljivke a v main-u.
+	če pa pošljemo kazalec, pomeni da spremenljivko pošljemo v funkcijo po referenci. to pomeni da ne pošljemo
+	dejanske vrednosti, ampak naslov na katerem se nahaja spremenljivka a. če spremenimo vrednost se torej nova
+	spremenljivka shrani na naslov, katerega smo poslali. ta naslov je isti spremenljivki a v main-u in izpiše
+	se nam nova vrednost.

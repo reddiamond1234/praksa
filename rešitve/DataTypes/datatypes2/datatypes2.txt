@@ -1,0 +1,6 @@
+(Bonus) How do C libraries or functions know when “string” ends? E.g. Why doesn’t printf just go
+further in memory and start printing out characters that are in memory after myString?
+
+and: če na koncu niza ne dodamo \0, ga doda prevajalnik sam. \0 pravimo terminating null character
+     (mislim da je v slovenščini tudi izraz čuvaj), kateri prevajalniku pove, kje se zaključi branje niza.
+     	
